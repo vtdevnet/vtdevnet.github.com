@@ -4,7 +4,7 @@
   <title><![CDATA[VTDevNet]]></title>
   <link href="http://vtdevnet.github.com/atom.xml" rel="self"/>
   <link href="http://vtdevnet.github.com/"/>
-  <updated>2011-11-17T12:00:18-05:00</updated>
+  <updated>2011-12-08T10:52:05-05:00</updated>
   <id>http://vtdevnet.github.com/</id>
   <author>
     <name><![CDATA[Carmen Tedesco]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://vtdevnet.github.com/blog/2011/12/08/welcome/"/>
+    <updated>2011-12-08T10:51:00-05:00</updated>
+    <id>http://vtdevnet.github.com/blog/2011/12/08/welcome</id>
+    <content type="html"><![CDATA[<p>The VTDevNet was formed to help people working in developing countries
+and on issues of international development network to share best
+practices, resources, and their experiences. The goal is to foster an
+environment where people can network with each other and leverage their
+experiences to better their work in this field. We hold regular happy
+hours, and are starting to have events and panel discussions.</p>
+]]></content>
+  </entry>
   
 </feed>
